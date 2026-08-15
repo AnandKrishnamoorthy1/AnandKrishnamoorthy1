@@ -4,20 +4,11 @@
 
 I design and build production-minded AI systems, agentic workflows, and enterprise AI applications that solve complex operational problems.
 
-I build enterprise AI agents, make them reliable, and integrate them into real workflows.
+I focus on reliable agent behavior, grounded reasoning, governed execution, and integration with real enterprise workflows.
 
 - **Build:** Agentic workflows, multi-agent systems, RAG, and intelligent automation
 - **Evaluate:** Golden datasets, LLM-as-a-judge, guardrails, and agent reliability
 - **Integrate:** AI with enterprise data, APIs, tools, and real-world workflows
-
-## 🛠 Tech Stack
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **AI & Agentic Systems** | LangGraph · Google ADK · LangChain · Hugging Face · PyTorch |
-| **AI Applications & Integration** | FastAPI · REST APIs · MCP · PostgreSQL |
-| **Cloud & Data** | AWS · GCP · Databricks · Docker |
-| **Languages** | Python · SQL |
 
 ### 🤖 AI & Agentic Systems
 
@@ -46,13 +37,19 @@ I build enterprise AI agents, make them reliable, and integrate them into real w
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=sqlite&logoColor=white)
 
+## 📈 Selected Impact
+
+- 30% → 100% agent evaluation accuracy
+- Top 10 winner / 6,000+ participants in a global datathon — built solo
+- Built and deployed an end-to-end Qwen-powered multi-agent AI system on Alibaba Cloud
+
 ## 🚀 Featured Systems & Projects
 
 | Project | Architecture & execution | Stack |
 | :--- | :--- | :--- |
-| **[Corporate Intelligence Harness (Qwen)](https://github.com/AnandKrishnamoorthy1/corporate-intelligence-harness-qwen)** | Qwen-based harness for structured corporate research, intelligence synthesis, and decision support | `Qwen` `LLM` `Python` |
-| **[DataHub Aegis](https://github.com/AnandKrishnamoorthy1/DataHub-Aegis)** | Data intelligence and governance system focused on trusted context, discovery, and operational observability | `DataHub` `Python` `Data Governance` |
-| **[Ticket Automator Solution (TAS)](https://github.com/AnandKrishnamoorthy1/Ticket-Automator-Solution)** | Ticket ingestion, classification, key-phrase extraction, prioritization, and resolution prediction for customer-service workflows | `Python` `NLP` `Machine Learning` |
+| **[Corporate Intelligence Harness (Qwen)](https://github.com/AnandKrishnamoorthy1/corporate-intelligence-harness-qwen)** | Multi-agent corporate intelligence system that decomposes research questions, coordinates specialized agents, grounds analysis in live tools, and governs consequential actions | `Qwen` `LangGraph` `FastAPI` `Tool Calling` `Multi-Agent` |
+| **[DataHub Aegis](https://github.com/AnandKrishnamoorthy1/DataHub-Aegis)** | Metadata-grounded SQL agent that detects schema drift, traces affected queries, generates repairs, validates them against PostgreSQL, and records the verified recovery | `LangGraph` `DataHub` `MCP` `PostgreSQL` `FastAPI` |
+| **[Ticket Automator Solution (TAS) — 🏆 Global Champion, 6,000+ participants](https://github.com/AnandKrishnamoorthy1/Ticket-Automator-Solution)** | NLP automation system for ticket classification, prioritization, routing, key-phrase extraction, and resolution prediction | `Python` `NLP` `Machine Learning` |
 
 ## 🔭 Current Focus
 
