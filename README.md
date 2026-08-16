@@ -10,6 +10,20 @@ I focus on reliable agent behavior, grounded reasoning, governed execution, and 
 - **Evaluate:** Golden datasets, LLM-as-a-judge, guardrails, and agent reliability
 - **Integrate:** AI with enterprise data, APIs, tools, and real-world workflows
 
+## 📈 Selected Impact
+
+- **30% → 100%** agent evaluation accuracy
+- **Top 10 / 6,000+** global datathon participants — solo-built solution
+- Built & deployed end-to-end a Qwen-powered multi-agent AI system on Alibaba Cloud
+
+## 🚀 Featured Systems & Projects
+
+| Project | Architecture & execution | Stack |
+| :--- | :--- | :--- |
+| **[Corporate Intelligence Harness (Qwen)](https://github.com/AnandKrishnamoorthy1/corporate-intelligence-harness-qwen)** | Multi-agent corporate intelligence system that decomposes research questions, coordinates specialized agents, grounds analysis in live tools, and governs consequential actions | `Qwen` `LangGraph` `FastAPI` `Tool Calling` `Multi-Agent` |
+| **[DataHub Aegis](https://github.com/AnandKrishnamoorthy1/DataHub-Aegis)** | Metadata-grounded SQL agent that detects schema drift, traces affected queries, generates repairs, validates them against PostgreSQL, and records the verified recovery | `LangGraph` `DataHub` `MCP` `PostgreSQL` `FastAPI` |
+| **[Ticket Automator Solution (TAS) — 🏆 Global Champion, 6,000+ participants](https://github.com/AnandKrishnamoorthy1/Ticket-Automator-Solution)** | NLP automation system for ticket classification, prioritization, routing, key-phrase extraction, and resolution prediction | `Python` `NLP` `Machine Learning` |
+
 ### 🤖 AI & Agentic Systems
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -36,20 +50,6 @@ I focus on reliable agent behavior, grounded reasoning, governed execution, and 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=sqlite&logoColor=white)
-
-## 📈 Selected Impact
-
-- 30% → 100% agent evaluation accuracy
-- Top 10 winner / 6,000+ participants in a global datathon — built solo
-- Built and deployed an end-to-end Qwen-powered multi-agent AI system on Alibaba Cloud
-
-## 🚀 Featured Systems & Projects
-
-| Project | Architecture & execution | Stack |
-| :--- | :--- | :--- |
-| **[Corporate Intelligence Harness (Qwen)](https://github.com/AnandKrishnamoorthy1/corporate-intelligence-harness-qwen)** | Multi-agent corporate intelligence system that decomposes research questions, coordinates specialized agents, grounds analysis in live tools, and governs consequential actions | `Qwen` `LangGraph` `FastAPI` `Tool Calling` `Multi-Agent` |
-| **[DataHub Aegis](https://github.com/AnandKrishnamoorthy1/DataHub-Aegis)** | Metadata-grounded SQL agent that detects schema drift, traces affected queries, generates repairs, validates them against PostgreSQL, and records the verified recovery | `LangGraph` `DataHub` `MCP` `PostgreSQL` `FastAPI` |
-| **[Ticket Automator Solution (TAS) — 🏆 Global Champion, 6,000+ participants](https://github.com/AnandKrishnamoorthy1/Ticket-Automator-Solution)** | NLP automation system for ticket classification, prioritization, routing, key-phrase extraction, and resolution prediction | `Python` `NLP` `Machine Learning` |
 
 ## 🔭 Current Focus
 
