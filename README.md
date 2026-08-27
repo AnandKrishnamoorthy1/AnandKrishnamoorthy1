@@ -18,7 +18,7 @@ I focus on reliable agent behavior, grounded reasoning, governed execution, and 
 
 ## What Leaders & Teammates Have Said
 
-<img src="assets/professional-recognition-ribbon.svg" width="100%" height="220" alt="Professional recognition from a direct manager, senior engineer, project recognition, and senior Client Partner">
+<img src="assets/professional-recognition-ribbon.svg?v=3" width="100%" height="220" alt="Professional recognition from a direct manager, senior engineer, project recognition, and senior Client Partner">
 
 ## 🚀 Featured Systems & Projects
 

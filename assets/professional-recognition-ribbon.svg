@@ -14,7 +14,7 @@
     .supporting { fill: #1f2328; font: 600 17px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     .recognition { fill: #1f2328; font: 500 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     .attribution { fill: #57606a; font: 700 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: 0.08em; }
-    .track { animation: recognition-scroll 40s linear infinite; }
+    .track { animation: recognition-scroll 40s linear 3s infinite; transform-box: view-box; transform-origin: 0 0; }
 
     @keyframes recognition-scroll {
       from { transform: translateX(0); }
@@ -96,8 +96,9 @@
   <rect class="viewport" x="0.5" y="0.5" width="1199" height="219" rx="14" />
 
   <g class="track" clip-path="url(#ribbon-viewport)">
-    <use xlink:href="#recognition-sequence" x="0" y="0" />
-    <use xlink:href="#recognition-sequence" x="1760" y="0" />
-    <use xlink:href="#recognition-sequence" x="3520" y="0" />
+    <use href="#recognition-sequence" xlink:href="#recognition-sequence" x="-1760" y="0" />
+    <use href="#recognition-sequence" xlink:href="#recognition-sequence" x="0" y="0" />
+    <use href="#recognition-sequence" xlink:href="#recognition-sequence" x="1760" y="0" />
+    <use href="#recognition-sequence" xlink:href="#recognition-sequence" x="3520" y="0" />
   </g>
 </svg>
