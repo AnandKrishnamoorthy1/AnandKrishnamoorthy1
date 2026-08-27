@@ -10,10 +10,10 @@
     .primary-accent { fill: #2f81f7; }
     .attribution-dot { fill: #8ab4f8; }
     .quote { fill: #1f2328; font: 600 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    .supporting { fill: #1f2328; font: 600 17px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    .recognition { fill: #1f2328; font: 600 17px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .supporting { fill: #1f2328; font: 600 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .recognition { fill: #1f2328; font: 600 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     .attribution { fill: #57606a; font: 700 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: 0.08em; }
-    .track { animation: recognition-scroll 44s linear infinite; }
+    .track { animation: recognition-scroll 44s linear 2.5s infinite; }
 
     @keyframes recognition-scroll {
       from { transform: translateX(0); }
@@ -48,28 +48,28 @@
         <path class="primary-tail" d="M 24 154 C 24 166 20 174 10 180 C 24 178 38 172 44 164 Z" />
         <rect class="primary-card" x="0" y="0" width="450" height="164" rx="14" />
         <rect class="primary-accent" x="0" y="0" width="450" height="4" rx="2" />
-        <text class="quote" x="28" y="59">
+        <text class="quote" x="28" y="43">
           <tspan x="28" dy="0">&#8220;Before you and the senior</tspan>
-          <tspan x="28" dy="28">engineer joined, the project was</tspan>
-          <tspan x="28" dy="28">stuck. Now we have a solution.&#8221;</tspan>
+          <tspan x="28" dy="25">engineer joined, the project was</tspan>
+          <tspan x="28" dy="25">stuck. Now we have a solution.&#8221;</tspan>
         </text>
         <circle class="attribution-dot" cx="31" cy="143" r="3" />
         <text class="attribution" x="42" y="147">DIRECT MANAGER</text>
       </g>
       <g transform="translate(470 28)">
         <rect class="card" x="0" y="0" width="500" height="164" rx="14" />
-        <text class="recognition" x="24" y="55">
+        <text class="recognition" x="24" y="43">
           <tspan x="24" dy="0">Recognized by a senior Client Partner for</tspan>
-          <tspan x="24" dy="23">strong contributions to executive data-strategy</tspan>
-          <tspan x="24" dy="23">discussions and recommended to business-unit</tspan>
-          <tspan x="24" dy="23">leadership as a highly valuable resource.</tspan>
+          <tspan x="24" dy="25">strong contributions to executive data-strategy</tspan>
+          <tspan x="24" dy="25">discussions and recommended to business-unit</tspan>
+          <tspan x="24" dy="25">leadership as a highly valuable resource.</tspan>
         </text>
         <circle class="attribution-dot" cx="27" cy="143" r="3" />
         <text class="attribution" x="38" y="147">SENIOR CLIENT PARTNER</text>
       </g>
       <g transform="translate(990 28)">
         <rect class="card" x="0" y="0" width="360" height="164" rx="14" />
-        <text class="supporting" x="26" y="73">
+        <text class="supporting" x="26" y="43">
           <tspan x="26" dy="0">&#8220;You were so helpful and</tspan>
           <tspan x="26" dy="25">resourceful during my transition.&#8221;</tspan>
         </text>
@@ -78,7 +78,7 @@
       </g>
       <g transform="translate(1370 28)">
         <rect class="card" x="0" y="0" width="340" height="164" rx="14" />
-        <text class="supporting" x="24" y="82">
+        <text class="supporting" x="24" y="43">
           <tspan x="24" dy="0">&#8220;Big impact and great</tspan>
           <tspan x="24" dy="25">teamwork!&#8221;</tspan>
         </text>
@@ -92,28 +92,28 @@
         <path class="primary-tail" d="M 24 154 C 24 166 20 174 10 180 C 24 178 38 172 44 164 Z" />
         <rect class="primary-card" x="0" y="0" width="450" height="164" rx="14" />
         <rect class="primary-accent" x="0" y="0" width="450" height="4" rx="2" />
-        <text class="quote" x="28" y="59">
+        <text class="quote" x="28" y="43">
           <tspan x="28" dy="0">&#8220;Before you and the senior</tspan>
-          <tspan x="28" dy="28">engineer joined, the project was</tspan>
-          <tspan x="28" dy="28">stuck. Now we have a solution.&#8221;</tspan>
+          <tspan x="28" dy="25">engineer joined, the project was</tspan>
+          <tspan x="28" dy="25">stuck. Now we have a solution.&#8221;</tspan>
         </text>
         <circle class="attribution-dot" cx="31" cy="143" r="3" />
         <text class="attribution" x="42" y="147">DIRECT MANAGER</text>
       </g>
       <g transform="translate(470 28)">
         <rect class="card" x="0" y="0" width="500" height="164" rx="14" />
-        <text class="recognition" x="24" y="55">
+        <text class="recognition" x="24" y="43">
           <tspan x="24" dy="0">Recognized by a senior Client Partner for</tspan>
-          <tspan x="24" dy="23">strong contributions to executive data-strategy</tspan>
-          <tspan x="24" dy="23">discussions and recommended to business-unit</tspan>
-          <tspan x="24" dy="23">leadership as a highly valuable resource.</tspan>
+          <tspan x="24" dy="25">strong contributions to executive data-strategy</tspan>
+          <tspan x="24" dy="25">discussions and recommended to business-unit</tspan>
+          <tspan x="24" dy="25">leadership as a highly valuable resource.</tspan>
         </text>
         <circle class="attribution-dot" cx="27" cy="143" r="3" />
         <text class="attribution" x="38" y="147">SENIOR CLIENT PARTNER</text>
       </g>
       <g transform="translate(990 28)">
         <rect class="card" x="0" y="0" width="360" height="164" rx="14" />
-        <text class="supporting" x="26" y="73">
+        <text class="supporting" x="26" y="43">
           <tspan x="26" dy="0">&#8220;You were so helpful and</tspan>
           <tspan x="26" dy="25">resourceful during my transition.&#8221;</tspan>
         </text>
@@ -122,7 +122,7 @@
       </g>
       <g transform="translate(1370 28)">
         <rect class="card" x="0" y="0" width="340" height="164" rx="14" />
-        <text class="supporting" x="24" y="82">
+        <text class="supporting" x="24" y="43">
           <tspan x="24" dy="0">&#8220;Big impact and great</tspan>
           <tspan x="24" dy="25">teamwork!&#8221;</tspan>
         </text>
@@ -136,28 +136,28 @@
         <path class="primary-tail" d="M 24 154 C 24 166 20 174 10 180 C 24 178 38 172 44 164 Z" />
         <rect class="primary-card" x="0" y="0" width="450" height="164" rx="14" />
         <rect class="primary-accent" x="0" y="0" width="450" height="4" rx="2" />
-        <text class="quote" x="28" y="59">
+        <text class="quote" x="28" y="43">
           <tspan x="28" dy="0">&#8220;Before you and the senior</tspan>
-          <tspan x="28" dy="28">engineer joined, the project was</tspan>
-          <tspan x="28" dy="28">stuck. Now we have a solution.&#8221;</tspan>
+          <tspan x="28" dy="25">engineer joined, the project was</tspan>
+          <tspan x="28" dy="25">stuck. Now we have a solution.&#8221;</tspan>
         </text>
         <circle class="attribution-dot" cx="31" cy="143" r="3" />
         <text class="attribution" x="42" y="147">DIRECT MANAGER</text>
       </g>
       <g transform="translate(470 28)">
         <rect class="card" x="0" y="0" width="500" height="164" rx="14" />
-        <text class="recognition" x="24" y="55">
+        <text class="recognition" x="24" y="43">
           <tspan x="24" dy="0">Recognized by a senior Client Partner for</tspan>
-          <tspan x="24" dy="23">strong contributions to executive data-strategy</tspan>
-          <tspan x="24" dy="23">discussions and recommended to business-unit</tspan>
-          <tspan x="24" dy="23">leadership as a highly valuable resource.</tspan>
+          <tspan x="24" dy="25">strong contributions to executive data-strategy</tspan>
+          <tspan x="24" dy="25">discussions and recommended to business-unit</tspan>
+          <tspan x="24" dy="25">leadership as a highly valuable resource.</tspan>
         </text>
         <circle class="attribution-dot" cx="27" cy="143" r="3" />
         <text class="attribution" x="38" y="147">SENIOR CLIENT PARTNER</text>
       </g>
       <g transform="translate(990 28)">
         <rect class="card" x="0" y="0" width="360" height="164" rx="14" />
-        <text class="supporting" x="26" y="73">
+        <text class="supporting" x="26" y="43">
           <tspan x="26" dy="0">&#8220;You were so helpful and</tspan>
           <tspan x="26" dy="25">resourceful during my transition.&#8221;</tspan>
         </text>
@@ -166,7 +166,7 @@
       </g>
       <g transform="translate(1370 28)">
         <rect class="card" x="0" y="0" width="340" height="164" rx="14" />
-        <text class="supporting" x="24" y="82">
+        <text class="supporting" x="24" y="43">
           <tspan x="24" dy="0">&#8220;Big impact and great</tspan>
           <tspan x="24" dy="25">teamwork!&#8221;</tspan>
         </text>
